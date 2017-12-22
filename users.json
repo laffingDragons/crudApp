@@ -1,0 +1,47 @@
+[
+    {
+        "prefferedIndustry": "IT",
+        "prefferedCarrer": "NodeJs Developer",
+        "mobileNumber": 3215647824,
+        "email": "newmail.aks@gmail.com",
+        "lastName": "Patil",
+        "firstName": "Akshay",
+        "userName": "AkshayPatil1"
+    },
+    {
+        "prefferedIndustry": "Electronic",
+        "prefferedCarrer": "angularJs Developer",
+        "mobileNumber": 6915647824,
+        "email": "newmail.akshay@gmail.com",
+        "lastName": "Pawar",
+        "firstName": "Pratik",
+        "userName": "PratilPawar420"
+    },
+    {
+        "prefferedIndustry": "Computer Science",
+        "prefferedCarrer": "PHP Developer",
+        "mobileNumber": 3215647869,
+        "email": "newmail.kunal@gmail.com",
+        "lastName": "Sawant",
+        "firstName": "Kunal",
+        "userName": "KunalSawant1"
+    },
+    {
+        "prefferedIndustry": "Meachnical",
+        "prefferedCarrer": "ExpressJs Developer",
+        "mobileNumber": 3420647824,
+        "email": "aditya.aks@gmail.com",
+        "lastName": "Patil",
+        "firstName": "Aditya",
+        "userName": "AdityaPatil1"
+    },
+    {
+        "prefferedIndustry": "IT",
+        "prefferedCarrer": "NodeJs Developer",
+        "mobileNumber": 6915420824,
+        "email": "bradrox@gmail.com",
+        "lastName": "Brad",
+        "firstName": "Pitt",
+        "userName": "bradrox"
+    }
+]
